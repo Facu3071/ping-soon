@@ -82,7 +82,7 @@ h1 span {
 .input-email::placeholder {
   color: var(--blue);
   font-weight: 300;
-  opacity: 0.2;
+  opacity: 0.5;
 }
 
 .input-submit {
